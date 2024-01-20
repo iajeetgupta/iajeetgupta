@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React Js, Spring Boot, Javascript**
 
-- 📫 How to reach me **madhavsameer97@gmail.com**
+- 📫 How to reach me **ak6204904@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
