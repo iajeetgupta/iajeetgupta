@@ -3,7 +3,7 @@
 
 <div>
 <br/>
-- 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
+- 🔭 Full-stack developer with 1+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
 - 🌱 Proficient in front-end technologies like React, Angular, as well as back-end technologies like Spring Boot, Node.js, java and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
@@ -111,23 +111,21 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/iajeetgupta/" target="blank"><img src="https://img.shields.io/twitter/follow/iajeetgupta?logo=linkedin&style=for-the-badge" alt="iajeetgupta" /></a> </p>
 
-- 🔭 I’m currently working on **Online tutorial System**
+- 🔭 I’m currently working on **Traveling website(Yaatri.com)**
 
-- 🌱 I’m currently learning **Flutter, Devops**
+- 🌱 I’m currently learning **Full-Stack Developer, Devops**
 
 - 👯 I’m looking to collaborate on **Real Estate website project**
 
-- 🤝 I’m looking for help with **Online Tutorial System**
+- 🤝 I’m looking for help with **Traveling website(Yaatri.com)**
 
-- 👨‍💻 All of my projects are available at [madhavsportfolio.netlify.app](madhavsportfolio.netlify.app)
-
-- 📝 I regularly write articles on [realadityaop.blogspot.com](realadityaop.blogspot.com)
+- 👨‍💻 All of my projects are available at [iajeetguptaportfolio.netlify.app]
 
 - 💬 Ask me about **React js, Node js**
 
-- 📫 How to reach me **iajeetgupta97@gmail.com**
+- 📫 How to reach me **aj6204904@gmail.com**
 
-- 📄 Know about my experiences [madhavsportfolio.netlify.app](madhavsportfolio.netlify.app)
+- 📄 Know about my experiences [iajeetguptaportfolio.netlify.app]
 
 - ⚡ Fun fact **I Loves to code**
 
