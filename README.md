@@ -123,7 +123,7 @@
 
 - 💬 Ask me about **React js, Node js**
 
-- 📫 How to reach me **aj6204904@gmail.com**
+- 📫 How to reach me **ajeetkrgupta125@gmail.com**
 
 - 📄 Know about my experiences [iajeetguptaportfolio.netlify.app]
 
